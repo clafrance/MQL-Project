@@ -27,8 +27,8 @@ This Project is to analyze website traffic data extracted from Fullstory APIS fo
 •	The pages of services having maximum hits and events overall
 •	Most Visited pages by our top 15 customers found in #1
 
-### 4 Most Popular Browsers Used by Customer
+### 4. Most Popular Browsers Used by Customer
 
-### 5 Most Popular Devices
+### 5. Most Popular Devices
 
 
