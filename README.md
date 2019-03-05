@@ -4,6 +4,7 @@ This Project is to analyze website traffic data extracted from Fullstory APIS fo
 ### Dependents
 
 * Pandas
+* Jupyter Notebook
 * NumPy
 * Matplotlib.pyplot
 * Python
