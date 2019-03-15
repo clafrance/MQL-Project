@@ -1,5 +1,5 @@
 # MQL-Project
-This Project is to analyze website traffic data extracted from Fullstory APIS for a startup SAAS company to identify Most Qualified Leads (MQL), and most popular services.
+This Project is to analyze website traffic data extracted from Fullstory API for a startup SAAS company to identify Most Qualified Leads (MQL), and most popular services.
 
 ### Dependents
 
